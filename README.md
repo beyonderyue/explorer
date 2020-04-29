@@ -1,4 +1,4 @@
-# AtlasExplorer (Demo)
+# Silver Chain Explorer (Demo)
 
 ##License
 
